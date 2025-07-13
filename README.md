@@ -35,6 +35,7 @@ Once trained, the model is wrapped in a Gradio interface, where users can enter 
 |------------------------------|-------------------------------------|
 | `WineQualityPredictor.ipynb` | Jupyter notebook with full workflow |
 | `wine_model.pkl`             | Trained ML model                    |
+| `winequality-red.csv`        | Wine Quality data                   |
 | `README.md`                  | Project description (this file)     |
 
 
