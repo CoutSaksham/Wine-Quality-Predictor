@@ -38,5 +38,7 @@ Once trained, the model is wrapped in a Gradio interface, where users can enter 
 | `winequality-red.csv`        | Wine Quality data                   |
 | `README.md`                  | Project description (this file)     |
 
+🎯 Try it yourself!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CoutSaksham/Wine-Quality-Predictor/blob/main/WineQualityPredictor.ipynb)
 
 
