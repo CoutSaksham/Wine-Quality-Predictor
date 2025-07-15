@@ -39,6 +39,7 @@ Once trained, the model is wrapped in a Gradio interface, where users can enter 
 | `README.md`                  | Project description (this file)     |
 
 🎯 Try it yourself!
+https://coutsaksham-wine-quality.hf.space
 [![Open In Colab]https://colab.research.google.com/github/CoutSaksham/Wine-Quality-Predictor/blob/main/WineQualityPredictor.ipynb?forceRefresh=true
 
 
